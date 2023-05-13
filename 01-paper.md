@@ -1,4 +1,5 @@
 ---
+date: 2023-05-13
 title: How to MyST, without being mystified 🧙
 subject: tutorial
 subtitle: Evolve markdown documents and notebooks into structured data
@@ -11,12 +12,19 @@ author:
     email: aladinoster@gmail.com
 license: CC-BY-4.0
 keywords: myst, markdown
-export: pdf
+exports:
+  - docx
+  - format: pdf
+    template: lapreprint
 ---
 
 +++ {"part": "abstract"}
 
 We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
++++
+
++++ {"part": "data_availability"}
+Data availability on request
 +++
 
 ## Background

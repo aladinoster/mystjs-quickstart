@@ -1,10 +1,17 @@
-# How to MyST, without being mystified 🧙
-
-A tutorial to evolve markdown documents and notebooks into structured data
-
-**Authors:** Rowan Cockett<sup>1,2</sup> \
-**Affiliations:** <sup>1</sup>Executable Books, <sup>2</sup> Curvenote \
-**License:** CC-BY
+---
+title: How to MyST, without being mystified 🧙
+subject: tutorial
+subtitle: Evolve markdown documents and notebooks into structured data
+author:
+  - name: Andres Ladino
+    affiliations:
+      - Home
+      - Work
+    orcid: 0000-0002-1198-2287
+    email: aladinoster@gmail.com
+license: CC-BY-4.0
+keywords: myst, markdown
+---
 
 **Abstract**
 

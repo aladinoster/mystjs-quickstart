@@ -11,11 +11,13 @@ author:
     email: aladinoster@gmail.com
 license: CC-BY-4.0
 keywords: myst, markdown
+export: pdf
 ---
 
-**Abstract**
++++ {"part": "abstract"}
 
 We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
++++
 
 ## Background
 

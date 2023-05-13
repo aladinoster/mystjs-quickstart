@@ -25,7 +25,7 @@ Scientific communication today is designed around print documents and pay-walled
 
 > We believe how we share and communicate scientific knowledge should evolve past the status quo of print-based publishing and all the limitations of paper.
 
-The communication and collaboration tools that we are building in the ExecutableBooks project are built to follow the FORCE11 recommendations (Bourne _et al._, 2012). Specifically:
+The communication and collaboration tools that we are building in the ExecutableBooks project are built to follow the FORCE11 recommendations [Bourne _et al._, 2012](10.4230/DAGMAN.1.1.41). Specifically:
 
 1. rethink the unit and form of scholarly publication;
 2. develop tools and technologies to better support the scholarly lifecycle; and
@@ -60,7 +60,7 @@ MyST is focused on scientific writing, and ensuring that citations are first cla
 ![](./images/citations.png)
 **Figure 1**: Citations are rendered with a popup directly inline.
 
-MyST aims to show as much information in context as possible, for example, Figure 2 shows a reading experience for a referenced equation: you can immediately **click on the reference**, see the equation, all without loosing any context -- ultimately saving you time. Head _et al._ (2021) found that these ideas both improved the overall reading experience of articles as well as allowed researchers to answer questions about an article **26% faster** when compared to a traditional PDF!
+MyST aims to show as much information in context as possible, for example, Figure 2 shows a reading experience for a referenced equation: you can immediately **click on the reference**, see the equation, all without loosing any context -- ultimately saving you time. [Head _et al._ (2021)](10.1145/3411764.3445648) found that these ideas both improved the overall reading experience of articles as well as allowed researchers to answer questions about an article **26% faster** when compared to a traditional PDF!
 
 ![](./images/equations.gif)
 **Figure 2**: In context cross-references improve the reading experience.
@@ -84,11 +84,6 @@ One of the common forms of scientific communication today is through PDF documen
 
 There are many opportunities to improve open-science communication, to make it more interactive, accessible, more reproducible, and both produce and use structured data throughout the research-writing process. The `mystjs` ecosystem of tools is designed with structured data at its core. We would love if you gave it a try -- learn to get started at <https://myst.tools>.
 
-## References
-
-Bourne, Philip E., Clark, Timothy W., Dale, Robert, De Waard, Anita, Herman, Ivan, Hovy, Eduard H., Shotton, David. (2012)"Improving The Future of Research Communications and e-Scholarship". FORCE11. doi:10.4230/DAGMAN.1.1.41
-
-Head, A., Lo, K., Kang, D., Fok, R., Skjonsberg, S., Weld, D. S., & Hearst, M. A. (2021, May). Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. 10.1145/3411764.3445648
 
 [2i2c]: https://2i2c.org/
 [curvenote]: https://curvenote.com
